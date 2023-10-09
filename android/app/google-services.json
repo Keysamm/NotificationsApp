@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383101638493",
+    "project_id": "notificationsapp-eef32",
+    "storage_bucket": "notificationsapp-eef32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383101638493:android:ebdeb4d38916eb44007ab4",
+        "android_client_info": {
+          "package_name": "com.notificationsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-pNIrBNT-vMdeV0Ye1-Sm8GOQirjDrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
